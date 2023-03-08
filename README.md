@@ -14,6 +14,6 @@ Brand identity guidelines:
 ### PNG files
 
 ![](./logo.png)
-![](./banner_600x400.png)
+![](./banner_600x400.png) 
 ![](./banner_1400x350.png)
 ![](./collab-exemple.png)
